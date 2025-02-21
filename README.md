@@ -1,8 +1,7 @@
 # Hello World!, I'm Leandro, a Brasileiro FullStack 👋🏼:
 🛜 currently working on my own [webpage](https://github.com/softwareLeandro)<br>
-👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>
+👨🏼‍🎓 Student of Systems Analysis and Development at Universidade Descomplica, Brazil<br>
 👨🏼‍💻 working as a web developer since 2022 <br>
-🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 
 # 💻 Tech Stack:
