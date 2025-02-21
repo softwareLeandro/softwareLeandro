@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Leandro, a Brasileiro FullStack 👋🏼:
 🛜 currently working on my own [webpage](https://github.com/softwareLeandro)<br>
 👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>
