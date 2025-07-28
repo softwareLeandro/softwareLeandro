@@ -83,23 +83,10 @@ My goal is to grow in collaborative environments, learning from experienced prof
 
 ## 🤝 Conecte-se comigo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/leandro-r-alexandre/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none; outline:none;" />
-  </a>
-
-  <a href="https://dev.to/devbyleandro" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" style="border:none; outline:none;" />
-  </a>
-
-  <a href="https://www.tabnews.com.br/cuscodev" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/TabNews-000000?style=for-the-badge&logo=hashnode&logoColor=white" alt="TabNews" style="border:none; outline:none;" />
-  </a>
-
-  <a href="mailto:devbyleandro@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border:none; outline:none;" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-alexandre/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devbyleandro)
+[![TabNews](https://img.shields.io/badge/TabNews-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.tabnews.com.br/cuscodev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbyleandro@gmail.com)
 
 ---
 
