@@ -37,9 +37,9 @@ My goal is to grow in collaborative environments, learning from experienced prof
 
 ---
 
-## 🚀 Tech Stack & Ferramentas
+## 🚀 Tech Stack & Ferramentas | Stack Tecnologico e Strumenti | Tech Stack & Tools
 
-### 🧠 Linguagens & Frameworks
+### 🧠 Linguagens & Frameworks | Linguaggi e Framework | Languages & Frameworks
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/)
 [![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
@@ -64,13 +64,14 @@ My goal is to grow in collaborative environments, learning from experienced prof
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados | Basi di Dati | Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 
-### ⚙️ Ferramentas & Versionamento
+### ⚙️ Ferramentas & Versionamento | Strumenti & Controllo di Versione | Tools & Version Control
+
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -81,7 +82,7 @@ My goal is to grow in collaborative environments, learning from experienced prof
 
 ---
 
-## 🤝 Conecte-se comigo
+## 🤝 Conecte-se comigo | Connettiti con me | Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-alexandre/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devbyleandro)
