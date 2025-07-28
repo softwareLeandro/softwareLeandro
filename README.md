@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a Python developer focused on building robust back-end systems using frameworks like Django and Flask. My expertise extends to relational databases (PostgreSQL) and non-relational databases (MongoDB, Firebase), allowing me to design efficient, scalable data solutions.<br>As a freelancer and Software Engineering student, I’m passionate about solving complex problems, optimizing systems, and developing high-performance applications. I’m always learning and improving my skills, exploring new technologies to enhance my work.
+Sono uno sviluppatore software in continua evoluzione, appassionato nel risolvere problemi reali con codice pulito e buone pratiche. Ho esperienza pratica in progetti con C#, JavaScript, Swift e una conoscenza di base di Java, oltre a una buona padronanza dei principali framework e librerie associati a questi linguaggi.
+Nel mondo .NET, sto esplorando ASP.NET Core ed Entity Framework, creando API robuste e ben strutturate. Nello sviluppo mobile utilizzo Swift con SwiftUI e UIKit, progettando interfacce fluide e esperienze native per iOS. Lavoro anche con JavaScript e framework come React e Node.js, applicando concetti moderni sia nel frontend che nel backend.
+Nel frontend sviluppo con HTML, CSS e Tailwind CSS, combinando usabilità e performance. Ho conoscenze in database relazionali come PostgreSQL e non relazionali come Redis, entrambi molto richiesti nel mercato attuale.
+Oltre alle competenze tecniche, ho buone capacità comunicative e so lavorare in team multiculturali. Parlo portoghese (madrelingua), inglese a livello avanzato, sto imparando italiano e ho una conoscenza di base dello spagnolo.
+Il mio obiettivo è crescere in ambienti collaborativi, imparare da professionisti esperti e contribuire con soluzioni creative, scalabili e d’impatto.
 
 
 ## 🌐 Socials:
