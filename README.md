@@ -65,12 +65,6 @@ My goal is to grow in collaborative environments, learning from experienced prof
 
 ---
 
-## 🧭 Mapa Mental das Habilidades
-
-![Mapa Mental](./A_mind_map_infographic_in_a_digital_vector_graphic.png)
-
----
-
 ## 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
