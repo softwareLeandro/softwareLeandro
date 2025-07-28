@@ -122,10 +122,10 @@ You can view all certificates [in this repository](https://github.com/softwareLe
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus do GitHub | Trofei GitHub | GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=softwareLeandro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositório com Mais Contribuições | Repository più contribuito | Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=softwareLeandro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
