@@ -83,10 +83,25 @@ My goal is to grow in collaborative environments, learning from experienced prof
 
 ## 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-alexandre/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devbyleandro)
-[![TabNews](https://img.shields.io/badge/TabNews-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.tabnews.com.br/cuscodev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbyleandro@gmail.com)
+<table style="width:100%; border-spacing:0; border-collapse:collapse; margin:0; padding:0;">
+  <tr>
+    <td style="padding:0; margin:0;">
+      <a href="https://www.linkedin.com/in/leandro-r-alexandre/" target="_blank">
+        <img src="https://media4.giphy.com/media/CdhxVrdRN4YFi/giphy.gif" style="width:100%; display:block;" />
+      </a>
+    </td>
+    <td style="padding:0; margin:0;">
+      <a href="https://dev.to/devbyleandro" target="_blank">
+        <img src="https://media4.giphy.com/media/VA3YIvvzgdXIBpswGq/giphy.gif" style="width:100%; display:block;" />
+      </a>
+    </td>
+    <td style="padding:0; margin:0;">
+      <a href="https://www.tabnews.com.br/cuscodev" target="_blank">
+        <img src="https://media4.giphy.com/media/CdhxVrdRN4YFi/giphy.gif" style="width:100%; display:block;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
