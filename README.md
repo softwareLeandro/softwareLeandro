@@ -1,4 +1,20 @@
-# 🧠 Sobre mim | About Me | Chi sono
+<table style="width:100%; border-spacing:0; border-collapse:collapse; margin:0; padding:0;">
+  <tr>
+    <td style="padding:0; margin:0;">
+      <img src="https://media4.giphy.com/media/CdhxVrdRN4YFi/giphy.gif" style="width:100%; display:block;" />
+    </td>
+    <td style="padding:0; margin:0;">
+      <img src="https://media4.giphy.com/media/VA3YIvvzgdXIBpswGq/giphy.gif" style="width:100%; display:block;" />
+    </td>
+    <td style="padding:0; margin:0;">
+      <img src="https://media4.giphy.com/media/CdhxVrdRN4YFi/giphy.gif" style="width:100%; display:block;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🧠 Sobre mim | Chi sono | About Me
 <details> <summary>🇧🇷 <strong>Português</strong></summary>
 Sou um desenvolvedor de software em constante evolução, apaixonado por resolver problemas reais com código limpo e boas práticas. Tenho experiência prática em projetos com C#, JavaScript, Swift, e conhecimento básico em Java, além de domínio dos principais frameworks e bibliotecas associados a essas linguagens.
 No ecossistema .NET, venho explorando ASP.NET Core e Entity Framework, criando APIs robustas e organizadas. No desenvolvimento mobile, utilizo Swift com SwiftUI e UIKit, buscando interfaces fluidas e experiências nativas para iOS. Também desenvolvo com JavaScript e frameworks como React e Node.js, aplicando conceitos modernos de frontend e backend com eficiência.
@@ -67,11 +83,43 @@ My goal is to grow in collaborative environments, learning from experienced prof
 
 ## 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-r-alexandre/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devbyleandro)
-[![TabNews](https://img.shields.io/badge/TabNews-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.tabnews.com.br/devbyleandro)
+[![TabNews](https://img.shields.io/badge/TabNews-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.tabnews.com.br/cuscodev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devbyleandro@gmail.com)
 
+---
+
+## 📜 Certificados | Certificati | Certificates
+
+<details>
+<summary>🇧🇷 <strong>Português</strong></summary>
+
+📌 Alguns dos certificados que comprovam minha trajetória de aprendizado:
+
+Você pode ver todos os certificados [neste repositório](https://github.com/softwareLeandro/Certificates).
+
+</details>
+
+<details>
+<summary>🇮🇹 <strong>Italiano</strong></summary>
+
+📌 Alcuni dei miei certificati che dimostrano il mio percorso di apprendimento:
+
+Puoi vedere tutti i certificati [in questo repository](https://github.com/softwareLeandro/Certificates).
+
+</details>
+
+<details>
+<summary>🇬🇧 <strong>English</strong></summary>
+
+📌 Some of the certificates that prove my learning journey:
+
+You can view all certificates [in this repository](https://github.com/softwareLeandro/Certificates).
+
+</details>
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=softwareLeandro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -82,10 +130,10 @@ My goal is to grow in collaborative environments, learning from experienced prof
 ---
 [![](https://visitcount.itsvg.in/api?id=softwareLeandro&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
