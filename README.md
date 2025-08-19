@@ -98,7 +98,7 @@ My goal is to grow in collaborative environments, learning from experienced prof
 
 📌 Alguns dos certificados que comprovam minha trajetória de aprendizado:
 
-Você pode ver todos os certificados [neste repositório](https://github.com/softwareLeandro/Certificates).
+Você pode ver todos os certificados [neste repositório](https://github.com/softwareLeandro/CertificatesLeandro).
 
 </details>
 
@@ -107,7 +107,7 @@ Você pode ver todos os certificados [neste repositório](https://github.com/sof
 
 📌 Alcuni dei miei certificati che dimostrano il mio percorso di apprendimento:
 
-Puoi vedere tutti i certificati [in questo repository](https://github.com/softwareLeandro/Certificates).
+Puoi vedere tutti i certificati [in questo repository](https://github.com/softwareLeandro/CertificatesLeandro).
 
 </details>
 
@@ -116,7 +116,7 @@ Puoi vedere tutti i certificati [in questo repository](https://github.com/softwa
 
 📌 Some of the certificates that prove my learning journey:
 
-You can view all certificates [in this repository](https://github.com/softwareLeandro/Certificates).
+You can view all certificates [in this repository](https://github.com/softwareLeandro/CertificatesLeandro).
 
 </details>
 
